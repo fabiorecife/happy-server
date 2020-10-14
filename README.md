@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img style="background-color: #29B6D1; padding: 10px;  border-radius: 20px; " alt="happy logo" src=".github/happy-logo.png">
+  <img  alt="happy logo" src=".github/happy-logo.png">
 </h1>
+
 
 
 <p align="center">
